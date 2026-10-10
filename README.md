@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.youtube.com/@DEVLF55" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Dev_LF-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Dev LF"/>
   </a>
   <a href="https://github.com/fern12ando">
